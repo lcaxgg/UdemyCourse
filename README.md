@@ -1,1 +1,2 @@
 # myRepo
+# for educational purposes

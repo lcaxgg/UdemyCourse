@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "vecteezy_3d-isolated-cute-coffee-cup-cartoon-character_11501534_50~universal@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "vecteezy_3d-isolated-cute-coffee-cup-cartoon-character_11501534_50~universal@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "vecteezy_3d-isolated-cute-coffee-cup-cartoon-character_11501534_50~universal@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

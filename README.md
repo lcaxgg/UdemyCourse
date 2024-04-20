@@ -4,7 +4,7 @@ https://github.com/lcaxgg/UdemyCourse/assets/97140615/03924c56-bc5b-4049-85cd-e0
 
 > [!TIP]  
 > <sup>Tech stack used for development.</sup><br>
-> <sup>• SwiftUI</sup>
+> <sup>• SwiftUI</sup><br>
 > <sup>• Swift</sup>
 
 > [!NOTE]  

@@ -8,7 +8,7 @@ https://github.com/lcaxgg/UdemyCourse/assets/97140615/03924c56-bc5b-4049-85cd-e0
 > <sup>• Swift</sup>
 
 > [!NOTE]  
-> <sup>This project is finished and is part of my learning journey, inspired by a #UdemyCourse, beautifully demonstrates SwiftUI animations and haptics. 
+> <sup>This project is a step in my learning journey, inspired by a #UdemyCourse, beautifully showcases SwiftUI animations and haptics. 
 <br>Your valuable comments and suggestions are highly encouraged—please feel free to reach out to me.
 <br>Let's collaborate and create something truly remarkable together! 🙇🏻</sup><br>
 ---
